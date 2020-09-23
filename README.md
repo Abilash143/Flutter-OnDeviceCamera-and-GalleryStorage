@@ -4,4 +4,5 @@
 
 ## Description
 
-Take picture from On-device Camera App and store it in Gallery
+Take picture from On-device Camera App and store it in Gallery.
+
