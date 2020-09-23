@@ -6,3 +6,5 @@
 
 Take picture from On-device Camera App and store it in Gallery.
 
+![Uploading Camera.gif…]()
+
